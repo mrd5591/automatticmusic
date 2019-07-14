@@ -1,0 +1,28 @@
+missing module named resource - imported by posix, C:\Users\Matt\PycharmProjects\AutoMatticMusic\AutoMatticMusic.py
+missing module named posix - imported by os, C:\Users\Matt\PycharmProjects\AutoMatticMusic\AutoMatticMusic.py
+missing module named _posixsubprocess - imported by subprocess, C:\Users\Matt\PycharmProjects\AutoMatticMusic\AutoMatticMusic.py
+missing module named org - imported by pickle, C:\Users\Matt\PycharmProjects\AutoMatticMusic\AutoMatticMusic.py
+missing module named readline - imported by cmd, code, pdb, C:\Users\Matt\PycharmProjects\AutoMatticMusic\AutoMatticMusic.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, C:\Users\Matt\PycharmProjects\AutoMatticMusic\AutoMatticMusic.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, C:\Users\Matt\PycharmProjects\AutoMatticMusic\AutoMatticMusic.py
+missing module named _winreg - imported by platform, vlc, C:\Users\Matt\PycharmProjects\AutoMatticMusic\AutoMatticMusic.py
+missing module named _scproxy - imported by urllib.request
+missing module named java - imported by platform, C:\Users\Matt\PycharmProjects\AutoMatticMusic\AutoMatticMusic.py
+missing module named 'java.lang' - imported by platform, C:\Users\Matt\PycharmProjects\AutoMatticMusic\AutoMatticMusic.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, C:\Users\Matt\PycharmProjects\AutoMatticMusic\AutoMatticMusic.py
+missing module named termios - imported by tty, vlc, C:\Users\Matt\PycharmProjects\AutoMatticMusic\AutoMatticMusic.py, getpass
+missing module named grp - imported by tarfile, shutil, C:\Users\Matt\PycharmProjects\AutoMatticMusic\AutoMatticMusic.py
+missing module named pwd - imported by posixpath, tarfile, shutil, http.server, webbrowser, psutil, C:\Users\Matt\PycharmProjects\AutoMatticMusic\AutoMatticMusic.py, netrc, getpass
+missing module named _dummy_threading - imported by dummy_threading, C:\Users\Matt\PycharmProjects\AutoMatticMusic\AutoMatticMusic.py
+missing module named 'org.python' - imported by copy, C:\Users\Matt\PycharmProjects\AutoMatticMusic\AutoMatticMusic.py, xml.sax
+missing module named Tkinter - imported by belfrywidgets.collapsiblepane, belfrywidgets.labelbutton, belfrywidgets.progressbar, belfrywidgets.scrolledlistbox, belfrywidgets.tabbednotebook, belfrywidgets.wizard, belfrywidgets.tooltip
+missing module named AppKit - imported by keyboard._darwinkeyboard
+missing module named Quartz - imported by keyboard._darwinkeyboard
+missing module named fcntl - imported by keyboard._nixcommon
+missing module named Queue - imported by keyboard, keyboard._nixcommon, keyboard._generic
+missing module named psutil._psutil_aix - imported by psutil, psutil._psaix
+missing module named psutil._psutil_sunos - imported by psutil, psutil._pssunos
+missing module named psutil._psutil_bsd - imported by psutil, psutil._psbsd
+missing module named psutil._psutil_osx - imported by psutil, psutil._psosx
+missing module named _psutil_linux - imported by psutil
+missing module named psutil._psutil_posix - imported by psutil, psutil._pslinux, psutil._psosx, psutil._psbsd, psutil._pssunos, psutil._psaix

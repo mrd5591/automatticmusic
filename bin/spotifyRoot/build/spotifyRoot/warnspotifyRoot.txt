@@ -1,0 +1,31 @@
+missing module named resource - imported by posix, C:\Users\Matt\PycharmProjects\AutoMatticMusic\spotifyRoot.py
+missing module named posix - imported by os, C:\Users\Matt\PycharmProjects\AutoMatticMusic\spotifyRoot.py
+missing module named _posixsubprocess - imported by subprocess, C:\Users\Matt\PycharmProjects\AutoMatticMusic\spotifyRoot.py
+missing module named org - imported by pickle, C:\Users\Matt\PycharmProjects\AutoMatticMusic\spotifyRoot.py
+missing module named readline - imported by cmd, code, pdb, C:\Users\Matt\PycharmProjects\AutoMatticMusic\spotifyRoot.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, C:\Users\Matt\PycharmProjects\AutoMatticMusic\spotifyRoot.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, C:\Users\Matt\PycharmProjects\AutoMatticMusic\spotifyRoot.py
+missing module named _winreg - imported by platform, C:\Users\Matt\PycharmProjects\AutoMatticMusic\spotifyRoot.py
+missing module named _scproxy - imported by urllib.request
+missing module named java - imported by platform, C:\Users\Matt\PycharmProjects\AutoMatticMusic\spotifyRoot.py
+missing module named 'java.lang' - imported by platform, C:\Users\Matt\PycharmProjects\AutoMatticMusic\spotifyRoot.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, C:\Users\Matt\PycharmProjects\AutoMatticMusic\spotifyRoot.py
+missing module named termios - imported by tty, getpass, C:\Users\Matt\PycharmProjects\AutoMatticMusic\spotifyRoot.py
+missing module named urllib.urlretrieve - imported by urllib, youtube_dl.compat
+missing module named grp - imported by tarfile, shutil, C:\Users\Matt\PycharmProjects\AutoMatticMusic\spotifyRoot.py
+missing module named pwd - imported by posixpath, tarfile, shutil, http.server, webbrowser, netrc, getpass, youtube_dl.compat, C:\Users\Matt\PycharmProjects\AutoMatticMusic\spotifyRoot.py
+missing module named _dummy_threading - imported by dummy_threading, C:\Users\Matt\PycharmProjects\AutoMatticMusic\spotifyRoot.py
+missing module named 'org.python' - imported by copy, C:\Users\Matt\PycharmProjects\AutoMatticMusic\spotifyRoot.py, xml.sax
+missing module named fcntl - imported by youtube_dl.utils, pty
+missing module named lazy_extractors - imported by youtube_dl.extractor
+missing module named Crypto - imported by youtube_dl.downloader.hls
+missing module named xattr - imported by youtube_dl.utils
+missing module named future_builtins - imported by youtube_dl.compat
+missing module named BaseHTTPServer - imported by youtube_dl.compat
+missing module named HTMLParser - imported by youtube_dl.compat
+missing module named httplib - imported by youtube_dl.compat
+missing module named htmlentitydefs - imported by youtube_dl.compat
+missing module named Cookie - imported by youtube_dl.compat
+missing module named cookielib - imported by youtube_dl.compat
+missing module named urlparse - imported by youtube_dl.compat
+missing module named urllib2 - imported by youtube_dl.compat
